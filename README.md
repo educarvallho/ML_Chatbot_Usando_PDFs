@@ -1,4 +1,4 @@
-# 📚 Chatbot Inteligente com PDFs usando Azure AI & LLMs
+# 📚 Chatbot Inteligente com PDFs usando Azure AI Foundry
 
 Este projeto tem como objetivo aplicar técnicas de Inteligência Artificial Generativa com modelos de Linguagem Natural (LLMs) e buscas vetoriais para construir um **Chat Interativo Baseado em PDFs**. A proposta nasceu como um exercício prático para revisar conteúdos acadêmicos de forma inteligente e contextualizada. Ideal para estudantes, pesquisadores ou profissionais que trabalham com grandes volumes de informação textual.
 
