@@ -1,0 +1,7 @@
+Preciso que escreve um breve texto resumindo os tópicos listados abaixo:
+- A importância da Governança da Tecnologia da Informação;
+- O que é COBIT;
+- Como funcionam os métodos ágeis (Scrum e Kanban);
+- Quais os desafios de produzir software de alta qualidade e como o Engenheiro de Software participa no processo;
+- Como melhorar a segurança da informação;
+- Quais tipos de ameaças e ataques são mais comuns atualmente e como mitigar os riscos.
